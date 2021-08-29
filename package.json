@@ -1,6 +1,17 @@
 {
-  "name": "create-web3js-app",
-  
-  "name":"thinkium-web3js",
-  "name":"react",
+  "name": "testify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^17.0.2",
+    "truffle": "^5.4.8",
+    "vue": "^2.6.14",
+    "web3": "^1.5.2"
+  }
 }
